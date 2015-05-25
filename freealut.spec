@@ -1,7 +1,7 @@
 Summary:	Free implementation of OpenAL's ALUT standard
 Name:		freealut
 Version:	1.1.0
-Release:	12
+Release:	13
 License:	LGPL
 Group:		Libraries
 Source0:	http://connect.creativelabs.com/openal/Downloads/ALUT/%{name}-%{version}.tar.gz
